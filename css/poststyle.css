@@ -1,0 +1,92 @@
+.postnewsForm{
+    margin-top:20px;
+    width:400px;
+    float:left;
+}
+.postnewsForm label{
+    float:left;
+    width:90px;
+}
+.postnewsForm input{
+    width:250px; 
+    height: 35px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: 1px solid #999;
+    display:block;
+    margin-bottom: 30px;
+}
+.postnewsForm textarea{
+    width: 250px;
+    border-radius: 5px;
+    border:1px solid #999;
+    margin-top: 10px;
+}
+.postnewsForm input[type="submit"]{
+    height: 40px;
+    text-align: center;
+    margin: 40px 90px;
+}
+.registerForm{
+    margin-top:40px;
+    float:right;
+    width:450px;
+}
+.registerForm label{
+    float:left;
+    width:90px;
+}
+.registerForm input{
+    width:250px; 
+    height: 35px;
+    padding: 3px 9px;
+    border-radius: 5px;
+    border: 1px solid #999;
+    display:block;
+    margin-bottom: 30px;
+}
+.registerForm input[type="submit"]{
+    height: 40px;
+    text-align: center;
+    margin: 50px 95px;
+}
+
+header{
+    padding:40px; 
+    margin-bottom:80px;
+}
+header img{
+    width:20%;
+    float: left;
+    
+}
+header h2{
+    float: right;
+    font-family: cursive;
+    font-size: 18px;
+    margin-top:80px;
+}
+#content{
+    border-radius: 10px;
+    border:1px solid #ddd;
+    padding:20px;
+    min-height: 600px;
+}
+footer{
+    padding: 20px;
+    text-align: center;
+    border-top: 1px dashed #ddd;
+    margin-top: 50px;
+}
+footer p{
+    font-family: veradana; font-size: 16px;
+}
+.btn-danger{
+    border-radius:5px;
+    padding: 7px 15px;
+}
+
+.btn-danger:hover{
+
+    text-decoration: none;
+}
